@@ -1,0 +1,22 @@
+{
+  "publisher": "JahelCuadrado",
+  "name": "flutter-extension-pack-jc",
+  "displayName": "Flutter Extension Pack JC",
+  "description": "Flutter Extension Pack. Access a range of essential tools that simplify mobile app creation, from custom widgets to API integration, all in one place. Speed up your development process and create exceptional Flutter apps with ease. Everything you need in one place without unnecessary extras.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "nash.awesome-flutter-snippets",
+    "felixangelov.bloc",
+    "dart-code.dart-code",
+    "dart-code.flutter"
+  ],
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
+}
