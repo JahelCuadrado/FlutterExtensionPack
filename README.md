@@ -1,16 +1,20 @@
-# flutter-extension-pack-jc README
+# Dashpack
+📦 Flutter Extension Pack. Access a range of essential tools that simplify mobile app creation, from custom widgets to API integration, all in one place. 🚀 Speed up your development process and create exceptional Flutter apps with ease. Everything you need in one place without unnecessary extras.
 
-## Working with Markdown
+![Three dash, the flutter pet](./assets/dashatars.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+- **Dart**: Dart Code extends VS Code with support for the Dart programming language, and provides tools for effectively editing, refactoring, running, and reloading Flutter mobile apps.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **Flutter**: Adds support for effectively editing, refactoring, running, and reloading Flutter mobile apps. 
 
-## For more information
+- **Bloc**: VSCode support for the Bloc Library and provides tools for effectively creating Blocs and Cubits for both Flutter and AngularDart apps.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- **Flutter Snippets**: A collection of commonly used Flutter classes and methods. It increases your speed of development by eliminating most of the boilerplate code associated with creating a widget. Widgets such as StreamBuilder and SingleChildScrollView can be created by typing the shortcut streamBldr and singleChildSV respectively.
 
-**Enjoy!**
+- **Barrel file generator**: Barrel file generator for exporting your widgets, views, etc.
+
+- **Installation of dependecies**: A Visual Studio Code extension that allows you to easily add dependencies to your Dart and Flutter project's pubspec.yaml, all without leaving your editor.
+
+- **Translations**: VS Code extension to create a binding between your translations from .json files and your Flutter app. You can also automagically generate translations for all your locales, based on Google Translate.
+
+**😃 Enjoy the pack!**
