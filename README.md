@@ -1,7 +1,7 @@
 # Dashpack
 📦 Flutter Extension Pack. Access a range of essential tools that simplify mobile app creation, from custom widgets to API integration, all in one place. 🚀 Speed up your development process and create exceptional Flutter apps with ease. Everything you need in one place without unnecessary extras.
 
-![Three dash, the flutter pet](./assets/dashatars.png)
+![Three dash, the flutter pet](https://docs.flutter.dev/assets/images/dash/Dashatars.png)
 
 - **Dart**: Dart Code extends VS Code with support for the Dart programming language, and provides tools for effectively editing, refactoring, running, and reloading Flutter mobile apps.
 

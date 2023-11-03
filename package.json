@@ -23,10 +23,10 @@
 		"mobile"
 	],
   "icon": "assets/icon.png",
-  "name": "flutter-extension-pack-jc",
-  "displayName": "Flutter Extension Pack JC",
+  "name": "dashpack",
+  "displayName": "Dashpack",
   "description": "Flutter Extension Pack. Access a range of essential tools that simplify mobile app creation, from custom widgets to API integration, all in one place. Speed up your development process and create exceptional Flutter apps with ease. Everything you need in one place without unnecessary extras.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.84.0"
   },
